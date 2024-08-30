@@ -1,0 +1,3 @@
+FirstName,LastName,PhoneNumber,Email,PreferredContactTime,LinkedInProfileUrl,GitHubProfileUrl,Comments
+string,string,string,string,string,string,string,string
+Mustafa,Abuhamdeh,123-456-7890,abuhamdeh48@gmail.com,Morning,https://linkedin.com/in/Mustafa-abuhamdeh,https://github.com/abuhamdeh002,Experienced .NET developer
